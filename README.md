@@ -1,5 +1,5 @@
 <h1><strong>House Price Data Visualization and Analysis using Matplotlib and Seaborn in Python</h1></strong>
-<strong>Bar plots can be used to visualize the count of houses in each 'MSZoning' category or each 'Neighborhood'.</strong>
+<p><strong>. Bar plots can be used to visualize the count of houses in each 'MSZoning' category or each 'Neighborhood'.</strong></p>
 <strong>Scatter plot of 'LotFrontage' vs 'SalePrice' can help identify the relationship between the two variables.</strong>
 <strong>Histograms and kernel density plots can be used to visualize the distribution of the 'SalePrice' variable.</strong>
 <strong>Heatmaps can be used to visualize the correlation matrix between different variables, which can help identify strong correlations that might be useful for prediction models.</strong>
