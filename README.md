@@ -6,8 +6,8 @@
 
 <n><strong>. Scatter plot of 'LotFrontage' vs 'SalePrice' is used to identify the relationship between the two variables.</strong></n>
 
-<n><strong>. Histograms can be used to visualize the distribution of the 'SalePrice' variable.</strong></n>
+<n><strong>. Histograms used to visualize the distribution of the 'SalePrice' variable.</strong></n>
 
-<n><strong>. Boxplots can be used to visualize the distribution of 'SalePrice' for different categories of categorical variables such as 'OverallQual', 'CentralAir', 'KitchenQual', etc.</strong></n
+<n><strong>. Boxplots used to visualize the distribution of 'SalePrice' for different categories of categorical variables such as 'OverallQual', 'CentralAir', 'KitchenQual', etc.</strong></n
   
-<n><strong>. Line plots can be used to visualize how the average 'SalePrice' changes with 'YearBuilt' or 'YearRemodAdd'.</strong></n>
+<n><strong>. Line plots used to visualize how the average 'SalePrice' changes with 'YearBuilt' or 'YearRemodAdd'.</strong></n>
