@@ -1,6 +1,6 @@
 <h1><strong>House Price Data Visualization and Analysis using Matplotlib and Seaborn in Python</h1></strong>
 
-<p><img align="right" width="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzyWKTz6vWUXlUE_7O9IPWs9fmpN_IDOFygspeyLp9x9dcVKYEWrUmCa05fOZOFQozQHU&usqp=CAU" alt="anuuragupta" /></p>
+<p><img align="right" width="250" src="https://blog.gemfind.com/hubfs/ecommerce-subway-studio-malaysia%20%281%29.gif" alt="anuuragupta" /></p>
 
 <n><strong>. Bar plots used to visualize the count of house in categorical variables'.</strong></n>
 
